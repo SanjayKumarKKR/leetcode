@@ -1,3 +1,4 @@
+[Discussion Post (created on 16/3/2021 at 15:59)](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/discuss/1161223/Golang-Solution-100-faster-100-memory-efficient-clean-code)  
 <h2>1614. Maximum Nesting Depth of the Parentheses</h2><h3>Easy</h3><hr><div><p>A string is a <strong>valid parentheses string</strong> (denoted <strong>VPS</strong>) if it meets one of the following:</p>
 
 <ul>
