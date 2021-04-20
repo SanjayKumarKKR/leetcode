@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/3/2021 at 12:33)](https://leetcode.com/problems/determine-if-string-halves-are-alike/discuss/1167686/Golang-100-faster-100-less-memory)  
 <h2>1704. Determine if String Halves Are Alike</h2><h3>Easy</h3><hr><div><p>You are given a string <code>s</code> of even length. Split this string into two halves of equal lengths, and let <code>a</code> be the first half and <code>b</code> be the second half.</p>
 
 <p>Two strings are <strong>alike</strong> if they have the same number of vowels (<code>'a'</code>, <code>'e'</code>, <code>'i'</code>, <code>'o'</code>, <code>'u'</code>, <code>'A'</code>, <code>'E'</code>, <code>'I'</code>, <code>'O'</code>, <code>'U'</code>). Notice that <code>s</code> contains uppercase and lowercase letters.</p>
