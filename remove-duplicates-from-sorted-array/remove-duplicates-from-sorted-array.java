@@ -11,6 +11,6 @@ class Solution {
             }
         }
         
-        return set.size();
+        return k;
     }
 }
