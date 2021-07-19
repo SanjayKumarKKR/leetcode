@@ -1,3 +1,4 @@
+[Discussion Post (created on 19/6/2021 at 10:46)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/1347590/Java-or-100-Faster)  
 <h2>83. Remove Duplicates from Sorted List</h2><h3>Easy</h3><hr><div><p>Given the <code>head</code> of a sorted linked list, <em>delete all duplicates such that each element appears only once</em>. Return <em>the linked list <strong>sorted</strong> as well</em>.</p>
 
 <p>&nbsp;</p>
