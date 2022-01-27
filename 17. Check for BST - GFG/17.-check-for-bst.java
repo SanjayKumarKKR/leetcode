@@ -117,14 +117,13 @@ public class Solution
    {
        if(root == null)
            return true;
-       if(isBST(root.left) == false)
-           return false;
+       boolean left = isBST(root.left);
        
        if(root.data <= prev)
            return false;
        
        prev = root.data;
    
-       return isBST(root.right);
+       return left && isBST(root.right);
    }
 }
